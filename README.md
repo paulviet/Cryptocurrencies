@@ -20,7 +20,7 @@ Module 18 Challenge - Bootcamp: CU-VIRT-DATA-PT-02-2021-U-B-TTH - Paul Do
 
   
 
-Files:  [crypto_clustering.ipynb](crypto_clustering.ipynb) , dataset  [crypto_data.csv](Resources\crypto_data.csv) HTML  output: [crypto_clustering.html](Resources\crypto_clustering.html) 
+Files:  [crypto_clustering.ipynb](crypto_clustering.ipynb) , dataset  [crypto_data.csv](Resources/crypto_data.csv) HTML  output: [crypto_clustering.html](Resources/crypto_clustering.html) 
 
 ## Results:
 
@@ -40,7 +40,7 @@ The majority of the cryptocurrencies are clustered in the lower left
 
 
 
-HTML will have interactive Visuals: [crypto_clustering.html](Resources\crypto_clustering.html) 
+HTML will have interactive Visuals: [crypto_clustering.html](Resources/crypto_clustering.html) 
 
 
 
